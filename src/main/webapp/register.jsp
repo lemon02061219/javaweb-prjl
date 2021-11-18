@@ -14,7 +14,7 @@
 <form action="RegisterServlet" method="post" onsubmit="return check()">
     <table>
         <tr>
-            <td>请输入用户名：</td>
+
             <td><input name="username" id="username" type="text"></td>
         </tr>
         <tr>
